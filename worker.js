@@ -1,4 +1,4 @@
-effix
+effi
 /* eslint-disable import/no-named-as-default */
 import { writeFile } from 'fs';
 import { promisify } from 'util';
