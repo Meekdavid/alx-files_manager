@@ -1,4 +1,4 @@
-effixcient efffoiceint effieciwn effievi
+effixcient efffoiceint effieciwn effiev
 /* eslint-disable import/no-named-as-default */
 import { writeFile } from 'fs';
 import { promisify } from 'util';
