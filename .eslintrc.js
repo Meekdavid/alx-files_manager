@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    browser: false, ef
+    browser: false, e
     es6: true,
     jest: false,
     mocha: true,
