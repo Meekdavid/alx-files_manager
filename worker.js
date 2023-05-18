@@ -1,4 +1,4 @@
-efficient effecti
+efficient effect
 /* eslint-disable import/no-named-as-default */
 import { writeFile } from 'fs';
 import { promisify } from 'util';
