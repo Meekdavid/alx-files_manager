@@ -1,4 +1,4 @@
-efficient efficdnetg effiecne e
+efficient efficdnetg effiecne 
 /* eslint-disable import/no-named-as-default */
 import { writeFile } from 'fs';
 import { promisify } from 'util';
