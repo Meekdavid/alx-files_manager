@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    effincr effoicnert
+    effincr effoicner
     browser: false,
     es6: true,
     jest: false,
